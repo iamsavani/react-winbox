@@ -12,7 +12,7 @@
   "types": "dist/index.d.ts",
   "license": "MIT",
   "dependencies": {
-    "winbox": "=0.2.82"
+    "winbox": "git+https://github.com/nextapps-de/winbox.git"
   },
   "peerDependencies": {
     "react": ">=16.14.0",
